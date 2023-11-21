@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resume>
+  <personal_information>
+    <name>Huey Newman</name>
+    <phone>919-559-2554</phone>
+    <email>HueyNewman2@gmail.com</email>
+  </personal_information>
+
+  <qualifications>
+    <certification>ASQ Certified Six Sigma Black Belt</certification>
+    <experience>14+ years of combined experience in both manufacturing and consulting environments facilitating TPM and Six Sigma</experience>
+    <ability>Demonstrated ability to effectively coach and train Process Owners, Champions, Steering Teams, and Project Teams</ability>
+    <leadership>Strong leadership skills with proven ability to facilitate cross-functional teams</leadership>
+  </qualifications>
+
+  <major_accomplishments>
+    <accomplishment>Help lead Platform Statistical Process Control with cross-functional team from two major plants. This resulted in $7,000,000 savings on material usage variance.</accomplishment>
+    <accomplishment>Led Design of Experiment projects with a cross-functional team of operators, management team, and planning to reduce inventory of film. This resulted in $450,000 manufacturing annualized cost savings.</accomplishment>
+    <!-- Add more major accomplishments if needed -->
+  </major_accomplishments>
+
+  <work_experience>
+    <job>
+      <title>Improvement Platform Leader</title>
+      <company>ConAgra Foods</company>
+      <location>Omaha, NE</location>
+      <duration>August 08 - Present</duration>
+      <responsibilities>
+        Responsible for developing effective training modules for 11 plants regarding Total Productive Maintenance and Statistical Process Control and training key Plant Operations personnel (Salaried & Hourly) in Statistical Process Control methodologies. Drive component usage performance to target specification fill weights and manage variation to demonstrated process capability. Help deliver on TDC / CSU margin measurement, cost productivity, CCRs, OEE, and Yield Glide paths.
+      </responsibilities>
+    </job>
+
+    <!-- Add more work experiences if needed -->
+  </work_experience>
+
+  <education>
+    <degree>Master in Business Administration</degree>
+    <university>University of Southern New Hampshire</university>
+    <year>May 2004</year>
+  </education>
+
+  <computer_skills>
+    <skill>Microsoft Office</skill>
+    <skill>Microsoft Projects</skill>
+    <skill>AutoCAD</skill>
+    <skill>Solid Works</skill>
+    <skill>Visio</skill>
+    <skill>JMP</skill>
+    <skill>Minitab</skill>
+  </computer_skills>
+
+  <professional_affiliations>
+    <affiliation>American Society for Quality (ASQ)</affiliation>
+  </professional_affiliations>
+
+</resume>
