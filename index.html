@@ -71,7 +71,20 @@
     </ul>
   </section>
 
+  <h3>Visitors: <span id="clicks">0</span></h3>
   <!-- Add more sections as -->
-
 </body>
-</html>
+
+  <script>
+    window.onload = function() {
+      fetch('https://peyw2oh29b.execute-api.us-east-1.amazonaws.com/prod')
+        .then(response => response.json())
+        .then(data => {
+          document.getElementById('clicks').innerText = data.visitorCount;
+        })
+        .catch(error => console.error('Error:', error));
+    };
+    </script>
+  
+    </html>
+  
